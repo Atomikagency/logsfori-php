@@ -1,6 +1,6 @@
 <?php
 
-namespace LogsForI\src;
+namespace LogsForI;
 
 class Logger
 {
