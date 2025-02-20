@@ -1,10 +1,10 @@
 <?php
 
-namespace Logsfori;
+namespace Atomikagency\LogsforiPhp;
 
 class Logger
 {
-    // On peut renommer la constante par défaut pour la distinguer de la propriété modifiable.
+// On peut renommer la constante par défaut pour la distinguer de la propriété modifiable.
     const DEFAULT_ENDPOINT = 'http://127.0.0.1:3000';
 
     const SEVERITY_DEBUG    = 'debug';
